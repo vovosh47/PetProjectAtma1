@@ -24,7 +24,8 @@ namespace PetProjectAtma
         {
 
 
-
+            Int32 s = 10;
+            Console.WriteLine("dawdaw");
             InitializeComponent();
         }
     }
