@@ -22,6 +22,9 @@ namespace PetProjectAtma
     {
         public MainWindow()
         {
+
+
+
             InitializeComponent();
         }
     }
